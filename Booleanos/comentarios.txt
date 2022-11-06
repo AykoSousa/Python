@@ -1,0 +1,15 @@
+A maioria dos valores são verdadeiros
+Quase qualquer valor é avaliado Truese tiver algum tipo de conteúdo.
+
+Qualquer string é True, exceto strings vazias.
+
+Qualquer número é True, exceto 0.
+
+Qualquer lista, tupla, conjunto e dicionário são True, exceto os vazios.
+
+Alguns valores são falsos
+Na verdade, não há muitos valores avaliados para False, exceto valores vazios, como (), [], {}, "", o número 0e o valor None. E, claro, o valor é Falseavaliado como False.
+
+O Python também possui muitas funções internas que retornam um valor booleano, como a isinstance() função, que pode ser usada para determinar se um objeto é de um determinado tipo de dados:
+x = 200
+print(isinstance(x, int))

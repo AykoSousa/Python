@@ -1,0 +1,8 @@
+Tipo de texto:	str
+Tipos Numéricos:	int, float, complex
+Tipos de sequência:	list, tuple, range
+Tipo de mapeamento:	dict
+Tipos de conjunto:	set,frozenset
+Tipo booleano:	bool
+Tipos binários:	bytes, bytearray, memoryview
+Nenhum Tipo:	NoneType

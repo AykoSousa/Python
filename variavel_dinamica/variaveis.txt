@@ -1,0 +1,2 @@
+Variavel é dinamica: num = 1
+num = "Olá"

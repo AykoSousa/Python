@@ -1,0 +1,33 @@
+---------------------------------------
+Strings são Arrays
+Como muitas outras linguagens de programação populares, strings em Python são arrays de bytes que representam caracteres unicode.
+
+No entanto, o Python não possui um tipo de dados de caractere, um único caractere é simplesmente uma string com um comprimento de 1.
+
+Colchetes podem ser usados ​​para acessar elementos da string.
+--------------------------------------
+Fazendo um loop em uma string
+Como strings são arrays, podemos fazer um loop pelos caracteres em uma string, com um forloop.
+
+Para verificar se uma determinada frase ou caractere está presente em uma string, podemos usar a palavra-chave in.
+----------------------------------------
+Fatiamento
+Você pode retornar um intervalo de caracteres usando a sintaxe de fatia.
+
+Especifique o índice inicial e o índice final, separados por dois pontos, para retornar uma parte da string.
+----------------------------------------
+Strings Métodos - https://www.w3schools.com/python/python_ref_string.asp
+----------------------------------------
+Não podemos combinar strings com números, mas podemos usaar o format() - O format()método pega os argumentos passados, os formata e os coloca na string onde {}estão os espaços reservados.
+------------------------------------------
+Caracteres com Scape:
+\'	Single Quote	
+\\	Backslash	
+\n	New Line	
+\r	Carriage Return	
+\t	Tab	
+\b	Backspace	
+\f	Form Feed	
+\ooo	Octal value	
+\xhh	Hex value
+------------------------------------------

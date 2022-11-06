@@ -1,0 +1,10 @@
+Existem quatro tipos de dados de coleção na linguagem de programação Python:
+
+Lista é uma coleção que é ordenada e mutável. Permite membros duplicados.
+Tupla é uma coleção ordenada e imutável. Permite membros duplicados.
+Set é uma coleção não ordenada, imutável* e não indexada. Nenhum membro duplicado.
+Dicionário é uma coleção ordenada** e mutável. Nenhum membro duplicado.
+
+*Os itens do conjunto são imutáveis, mas você pode remover e/ou adicionar itens sempre que quiser.
+
+**A partir da versão 3.7 do Python, os dicionários são ordenados . No Python 3.6 e anteriores, os dicionários não são ordenados .
